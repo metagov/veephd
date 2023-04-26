@@ -1,9 +1,9 @@
 # veephd
-A two-year, part-time vice-presidential PhD in AI for Kamala Harris.
+A two-year, part-time vice-presidential PhD in AI for Kamala Harris. [Sign the petition](https://www.change.org/p/invite-kamala-harris-to-do-a-phd-program-in-ai).
 
 ## Dear Vice President Harris,
 
-I hope this letter finds you in good health and high spirits. I am writing to extend a unique opportunity for you to join a fully-customized, 2-year, part-time PhD program in Artificial Intelligence (AI). Our combined faculty have designed this program specifically for you, taking into consideration your background, interests, and the potential impact of your participation in this field.
+We hope this letter finds you in good health and high spirits. We are writing to extend a unique opportunity for you to join a fully-customized, 2-year, part-time PhD program in Artificial Intelligence (AI). Our combined faculty have designed this program specifically for you, taking into consideration your background, interests, and the potential impact of your participation in this field.
 
 The program will consist of three carefully selected classes, a qualifying examination, and contributions to two original research papers. These components have been tailored to accommodate your busy schedule while providing you with the essential knowledge and hands-on experience required to excel in the rapidly evolving field of AI.
 
@@ -21,8 +21,4 @@ Thank you for considering this opportunity, and we look forward to your favorabl
 
 Sincerely,
 
-Joshua Tan
-
-Department of Computer Science
-
-University of Oxford
+[The undersigned](https://www.change.org/p/invite-kamala-harris-to-do-a-phd-program-in-ai)
