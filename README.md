@@ -20,7 +20,9 @@ We would be honored to enroll you in our PhD program and are eager to discuss th
 Thank you for considering this opportunity, and we look forward to your favorable response.
 
 Sincerely,
+
 Joshua Tan
 
 Department of Computer Science
+
 University of Oxford
