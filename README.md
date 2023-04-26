@@ -1,7 +1,7 @@
 # veephd
 A two-year, part-time vice-presidential PhD in AI for Kamala Harris.
 
-Dear Vice President Harris,
+## Dear Vice President Harris,
 
 I hope this letter finds you in good health and high spirits. I am writing to extend a unique opportunity for you to join a fully-customized, 2-year, part-time PhD program in Artificial Intelligence (AI). Our combined faculty have designed this program specifically for you, taking into consideration your background, interests, and the potential impact of your participation in this field.
 
